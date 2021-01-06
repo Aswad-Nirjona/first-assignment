@@ -1,0 +1,116 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.highlight{
+    color: deeppink;
+ }
+.half-width{
+    width: 30%;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-right: 0%;
+
+}
+#right-position{
+    padding-right: 4%;
+}
+.half-width img{
+    width: 100%
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(248, 116, 136),rgb(202, 9, 112) );
+    border-radius: 2px;
+    color: white;
+    font-weight: 200;
+    font-size: 10px;
+}
+.link-button{
+    position: absolute;
+    width: 70px;
+    height: 25px;
+    text-align: center;
+    padding-top: 7px;
+}
+p{
+    color: rgb(59, 59, 59);
+    font-weight: 100px;
+}
+#second-section{
+    padding-bottom: 150px;
+}
+.second-part{
+    width: 40%;
+    float:left;
+    padding-top: 0%;
+    padding-right: 5%;
+    padding-left: 5%;
+
+}
+.second-part img{
+    width: 100%;
+}
+#about{
+    width: 400px;
+    padding-top: 100px;
+}
+#download-icon{
+    width: 150px;
+    height: 25px;
+}
+#third-section{ 
+    background-color: rgb(232, 237, 247);   
+    height: 700px;
+}
+#third-section-heading{
+    text-align: center;
+    padding-top: 100px;
+}
+.working-projects{
+    width: 25%;
+    padding: 2%;
+    margin: 1%;
+    background-color: white;
+    float: left;
+    margin-top: 35px;
+    height: 50%;
+    border-radius: 15px;
+    box-shadow: rgba(150, 150, 150, 0.603) 1px 1px 20px 5px;
+}
+#left-corner{
+    margin-left: 60px;
+}
+#right-corner{
+    margin-right: 50px;
+}
+.working-projects img{
+    height: 50%;
+    width: 100%;
+}
+#inquiry{
+    height: 400px;
+}
+#chat{
+    align-items: center;
+}
+#chat img{
+    height: 50%;
+    width: 75%;
+    margin: 2%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 5%;
+    background-image: url("images/Group_33094_1.png");
+}
