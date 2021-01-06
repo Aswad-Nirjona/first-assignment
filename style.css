@@ -49,7 +49,7 @@ p{
     font-weight: 100px;
 }
 #second-section{
-    padding-bottom: 150px;
+    padding-bottom: 200px;
 }
 .second-part{
     width: 40%;
@@ -57,7 +57,6 @@ p{
     padding-top: 0%;
     padding-right: 5%;
     padding-left: 5%;
-
 }
 .second-part img{
     width: 100%;
@@ -100,17 +99,21 @@ p{
     width: 100%;
 }
 #inquiry{
-    height: 400px;
+    height: 500px;
 }
-#chat{
-    align-items: center;
+.chat{
+    height: 200px;
 }
-#chat img{
-    height: 50%;
-    width: 75%;
-    margin: 2%;
-    padding-right: 10%;
-    padding-left: 10%;
-    padding-top: 5%;
-    background-image: url("images/Group_33094_1.png");
+.chat{
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-top: 100px;
+}
+.chat h2{
+    position: absolute;
+    left: 375px;
+    top: 160px;
+    font-size: 40px;
+    font-weight: 600;
 }
